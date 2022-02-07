@@ -53,34 +53,34 @@ function generateMarkdown(data) {
   return `
   # ${data.project}   ${renderLicenseBadge(data.license)}
 
-  # Description
+  ## Description
   ${data.description}
 
-  # Table of Contents
-    * [Installation Guide](#Installation Guidelines)
-    * [Usage Guide] (#Usage Guidelines)
-    * [License] (#License)
-    * [Contribution Guide] (#Contribution Guidelines)
-    * [Testing Guide] (#Testing Guidelines)
-    * [Contact] (#Contact Information) 
+  ## Table of Contents
+  * [Installation Guide](#installation-guidelines)
+  * [Usage Guide](#usage-guidelines)
+  * [License](#license)
+  * [Contribution Guide](#contribution-guidelines)
+  * [Testing Guide](#testing-guidelines)
+  * [Contact](#contact-information) 
     
-  # Installation Guidelines
+  ## Installation Guidelines
   ${data.installation}
 
-  # Usage Guidelines
+  ## Usage Guidelines
   ${data.usage}
 
-  # License
+  ## License
   This project is protected under <a href="${renderLicenseLink(data.license)}" target="_blank">${data.license}</a> . 
 
 
-  # Contribution Guidelines
+  ## Contribution Guidelines
   ${data.contribution}
 
-  # Testing Guidelines
+  ## Testing Guidelines
   ${data.testing}
 
-  # Contact Information
+  ## Contact Information
   For questions please refer to: 
    * GitHub: ${data.github}
    * Email: ${data.email}
