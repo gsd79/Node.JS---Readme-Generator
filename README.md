@@ -19,7 +19,7 @@
   Can be used to generate a README.md file to use for any project
 
   ## License
-  This project is protected under <a href="https://opensource.org/licenses/MIT" target="_blank">MIT</a> . 
+  This project is protected under <a href="https://opensource.org/licenses/BSD-3-Clause" target="_blank">BSD 3</a> . 
 
 
   ## Contribution Guidelines
