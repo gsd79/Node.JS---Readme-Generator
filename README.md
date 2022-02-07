@@ -7,7 +7,7 @@
 Fusce dictum mi vitae lorem venenatis mollis. Sed sit amet euismod diam. Praesent dictum ex ac libero tempor tincidunt. Suspendisse vel lorem pretium lorem faucibus faucibus. Quisque porttitor, neque tincidunt dignissim pharetra, sapien ex aliquam metus, vitae ullamcorper nisl urna efficitur nibh. Nulla venenatis mauris eget nisi gravida rutrum. Donec pulvinar nunc eu nisl condimentum tempus. Donec a ligula quis lacus efficitur finibus. Nulla porttitor facilisis posuere. Aliquam in odio ut orci porta bibendum. Nullam consequat euismod velit, et dignissim nisl lobortis sit amet. Duis volutpat pharetra magna, ac sagittis elit lobortis sed. Maecenas facilisis lacinia convallis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vulputate hendrerit mi sit amet aliquet.
 
   ## Table of Contents
-  * [Installation Guide](#-installation-guidelines)
+  * [Installation Guide](#-Installation-Guidelines)
   * [Usage Guide](#-UsageGuidelines)
   * [License](#-License)
   * [Contribution Guide](#-ContributionGuidelines)
