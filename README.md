@@ -5,12 +5,12 @@
   asdsdsad
 
   # Table of Contents
-    * [Installation Guide](#-Installation Guidelines)
-    * [Usage Guide] (#-Usage Guidelines)
-    * [License] (#-License)
-    * [Contribution Guide] (#-Contribution Guidelines)
-    * [Testing Guide] (#-Testing Guidelines)
-    * [Contact] (#-Contact Information) 
+   * [Installation Guide](#-Installation Guidelines)
+   * [Usage Guide] (#-Usage Guidelines)
+   * [License] (#-License)
+   * [Contribution Guide] (#-Contribution Guidelines)
+   * [Testing Guide] (#-Testing Guidelines)
+   * [Contact] (#-Contact Information) 
     
   # Installation Guidelines
   sdsadasd
