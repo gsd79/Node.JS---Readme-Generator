@@ -108,7 +108,7 @@ const questions = [
     {
         type: 'input',
         name: 'contribution',
-        message: 'Provide guidelines for contribution.(Required)',
+        message: 'Provide guidelines for contribution(Required)',
         validate: contributionInput => {
             if (contributionInput) {
                 return true;
@@ -122,7 +122,7 @@ const questions = [
     {
         type: 'input',
         name: 'testing',
-        message: 'Provide guidelines for testing.(Required)',
+        message: 'Provide guidelines for testing(Required)',
         validate: contributionInput => {
             if (contributionInput) {
                 return true;
